@@ -32,7 +32,7 @@ header nav {
     font-size: 20px;
 }
 
-
+/*id character*/
 #digital-marketing-meeting {
 width: 100%;
     position: absolute;
@@ -62,7 +62,7 @@ a {
 p {
     font-size: 13px;
 }
-
+/* class attributes*/
 .hero {
     height: 800px;
     width: 100%;

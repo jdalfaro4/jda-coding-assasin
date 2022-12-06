@@ -2,4 +2,4 @@
 
 ##Description
 - This completed project allows you to click the tabs above to direct you to each section of the webpage that describes
-- 
+- We used a series of html elements to separate 
