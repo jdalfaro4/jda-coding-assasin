@@ -6,4 +6,4 @@
 - This web page was difficult to maintain a balanced front of detail that expressed the ideas and flavor of the company, however, it has proven successful and we hope to enhance the style and increase the information our company provides to the public in the world of marketing.
 
 ## Link 
-
+<img src="./images" alt="Alt text" title="Optional title">
